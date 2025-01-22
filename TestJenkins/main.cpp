@@ -2,7 +2,7 @@
 
 int main()
 {
-
+	// •Ï”‚Ì’è‹`
 	int num1 = 2;
 	int num2 = 3;
 
